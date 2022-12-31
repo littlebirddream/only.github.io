@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 
 <head>
-	<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="http://cdn.zhouql.vip/cdn/2023fire/main.css">
@@ -14,7 +14,7 @@
 		var bless = [
 			"呆瓜勇者",
 			"李孟然",
-			"新的一年里，希望你开心，快乐，健康♥"
+			"新的一年里，希望lmr快快乐乐，健健康康♥"
 		]
 		// 祝福文字修改 🌴
 		var blessStyle = {
